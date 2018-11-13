@@ -1,4 +1,4 @@
-var QrTest {
+class QrTest {
 	start() {
 		alert("qr test");
 	}
